@@ -1,0 +1,20 @@
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/runner/Blank-Repl/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/runner/Blank-Repl/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2023-04-15T02_17_56_950Z-debug-0.log
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/runner/Blank-Repl/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/runner/Blank-Repl/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/runner/.npm/_logs/2023-04-15T02_19_54_252Z-debug-0.log
